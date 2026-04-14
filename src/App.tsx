@@ -130,12 +130,12 @@ const KANJI_DATA: KanjiEntry[] = [
     phrases: [{ k: "写真がきれいですね。", r: "しゃしんがきれいですね。", f: "La photo est belle." }]
   },
   {
-    kanji: "紙", onyomi: "シ", kunyomi: "かみに",
+    kanji: "紙", onyomi: "シ", kunyomi: "かみ",
     vocab: [{ k: "手紙", r: "てがみ", f: "Lettre" }],
     phrases: [{ k: "母に手紙を書きました。", r: "ははにてがみをかきました。", f: "J'ai écrit une lettre à ma mère." }]
   },
   {
-    kanji: "映", onyomi: "エイ", kunyomi: "うつ（る）",
+    kanji: "映", onyomi: "エイ", kunyomi: "うつ（します）",
     vocab: [{ k: "映画", r: "えいが", f: "Film" }],
     phrases: [{ k: "どんな映画が好きですか。", r: "どんなえいががすきですか。", f: "Quel genre de films aimez-vous ?" }]
   },
@@ -156,7 +156,7 @@ const KANJI_DATA: KanjiEntry[] = [
     phrases: [{ k: "英国に行きたいです。", r: "えいこくにいきたいです。", f: "Je veux aller en Angleterre." }]
   },
   {
-    kanji: "語", onyomi: "ゴ", kunyomi: "かた（る）",
+    kanji: "語", onyomi: "ゴ", kunyomi: "かた（ります）",
     vocab: [{ k: "日本語", r: "にほんご", f: "Japonais" }],
     phrases: [{ k: "フランス語を教えます。", r: "ふらんすごをおしえます。", f: "J'enseigne le français." }]
   },
